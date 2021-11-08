@@ -16,3 +16,17 @@ body
     border: 1px solid #000;
     margin: 0 auto;
 }
+
+#cabecera
+{
+    background-color: black;
+    color: blanchedalmond;
+    font-weight: bold;
+    padding: 0.5em;
+}
+
+#tagline
+{
+    font-weight: normal;
+    font-size: 0.8em;
+}
